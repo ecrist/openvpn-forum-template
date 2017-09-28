@@ -189,6 +189,7 @@ a:hover	{ text-decoration: underline; }
 
 .site-description h1 {
 	margin-right: 0;
+	color: rgb(10,53,101);
 }
 
 /* Round cornered boxes and backgrounds
